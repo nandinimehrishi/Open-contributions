@@ -3,7 +3,7 @@ This Repository is for Learning purpose, and open contributions under DevIncept 
 
 # Machine Learning Topics
 
-*Regression
+'Regression'
 *Decision Trees
 *Dimentionality Reduction
 *Bias Variance
