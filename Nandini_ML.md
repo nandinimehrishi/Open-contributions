@@ -21,5 +21,5 @@ Optimization (adam, RMS, RMSprop)
 Batch normalization
 Backpropagation
 Tensorflow
-'''
+
 
