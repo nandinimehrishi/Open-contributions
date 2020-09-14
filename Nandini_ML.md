@@ -3,16 +3,18 @@ This Repository is for Learning purpose, and open contributions under DevIncept 
 
 # Machine Learning Topics
 
-'Regression'
-*Decision Trees
-*Dimentionality Reduction
-*Bias Variance
-*SVM
+-Regression
+-Decision Trees
+-Dimentionality Reduction(PCA)
+-Bias Variance
+-SVM
+-Niave Bayes
 
 # Deep Learning Topics
-*ConvNet
-*Hyperparameter Tuning
-*Optimization (adam, RMS, RMSprop)
-*Batch normalization
-*Backpropagation
+-ConvNet
+-Hyperparameter Tuning
+-Optimization (adam, RMS, RMSprop)
+-Batch normalization
+-Backpropagation
+-Tensorflow
 
