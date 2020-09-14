@@ -1,7 +1,7 @@
-# Open-contributions
-This Repository is for Learning purpose, and open contributions under DevIncept program.
+
 
 # Machine Learning Topics
+
 '''
 Regression
 Decision Trees
@@ -9,6 +9,8 @@ Dimentionality Reduction(PCA)
 Bias Variance
 SVM
 Niave Bayes
+Open CV
+NLP
 '''
 
 # Deep Learning Topics
